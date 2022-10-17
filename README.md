@@ -8,6 +8,10 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ![data set](https://user-images.githubusercontent.com/95342910/195974318-8cd6460e-e004-4dd9-bd72-e4faeadadfe8.png)
 
+## NEURAL NETWORK MODEL:
+
+![img3](https://user-images.githubusercontent.com/95342910/196088419-62449efa-47ff-4ce5-be0d-c48b474f1083.png)
+
 ## DESIGN STEPS
 
 ## STEP 1:
